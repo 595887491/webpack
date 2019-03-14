@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+}
+body{
+    background-color: lightblue;
+}
+body div {
+  width: 300px;
+  height: 300px;
+  margin: 100px;
+  border: 1px solid #0a0a0a;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  background: url(http://www.baiodu.com.com/57bf2c8b220a4cd06fa8a165ff97a71b.png);
+}
+
